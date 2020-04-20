@@ -2,8 +2,6 @@
 
 [PDF.js Express](https://pdfjs.express/) is a powerful JavaScript-based PDF Library that leverages PDF.js and adds additional features such as annotations, form support, and digitial signatures. It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
 
-![WebViewer UI](https://www.pdftron.com/downloads/pl/webviewer-ui.png)
-
 This repo is specifically designed for any users interested in integrating WebViewer into React project. This project was generated with [Create React App](https://github.com/facebook/create-react-app). See [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started) for more information.
 
 ## Initial setup
